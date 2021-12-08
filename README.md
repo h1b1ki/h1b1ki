@@ -1,6 +1,6 @@
 👋 Hi, I’m @hibiki-sama
 to see the future!
-A Junior 🚀 from CN. I consider myself as a .lazy guy
+A Safety trainee 🚀 from CN. I consider myself as a .simple(?) guy
 Things I have recently experimented with : socket.io, Game programming,Animation production...
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 
