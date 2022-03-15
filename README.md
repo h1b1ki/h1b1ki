@@ -10,7 +10,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 -🌱 I’m currently learning React-Native and Animation                               
 -🤔 I’m looking for help for my future top projects 
 
--💬 Ask me about anything 😜😌
+- 💬 Ask me about anything 😜😌
 
 -🎿 Hobbies other than coding : Play games, watch animations, think 🤔🤖..
 
